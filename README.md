@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and I/O Psychology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on learning skills
-- 📫 How to reach me gburns at fit.edu
+- 📫 How to reach me: profburns#1908 on discord
 
 <!---
 profburns/profburns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
